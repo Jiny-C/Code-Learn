@@ -1,7 +1,9 @@
-third time git
-third
-th
-create another branch
+first time git
+s
+add some new for the first time
+create master 
+create branch
+
 time
 git
 use
