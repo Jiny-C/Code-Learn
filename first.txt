@@ -1,7 +1,7 @@
 first time git
 s
-second time
-
+add some new for the first time
+create master 
 create branch
 time
 git
