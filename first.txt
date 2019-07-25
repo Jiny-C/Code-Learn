@@ -3,9 +3,12 @@ s
 add some new for the first time
 create master 
 create branch
+
 time
 git
 use
 the
 git
 hub
+
+third
